@@ -65,6 +65,8 @@ Key tasks included:
 
 ### 4. Interactive Dashboard — Power BI
 
+![Power BI Telecom Customer Churn Dashboard](images/powerbi-dashboard.png)
+
 An interactive dashboard was developed to present the main findings in a concise and accessible format.
 
 **Key Performance Indicators (KPIs):**
